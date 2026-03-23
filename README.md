@@ -1,15 +1,15 @@
 <div align="center">
 
 ```
-  ██████╗ ██╗   ██╗ ██████╗      ██╗██╗███████╗
- ██╔════╝ ██║   ██║██╔═══██╗     ██║██║██╔════╝
- ██║  ███╗██║   ██║██║   ██║     ██║██║█████╗
- ██║   ██║██║   ██║██║   ██║██   ██║██║██╔══╝
- ╚██████╔╝╚██████╔╝╚██████╔╝╚█████╔╝██║███████╗
-  ╚═════╝  ╚═════╝  ╚═════╝  ╚════╝ ╚═╝╚══════╝
+     ██╗ █████╗  ██████╗ ██████╗ ██████╗
+     ██║██╔══██╗██╔════╝██╔═══██╗██╔══██╗
+     ██║███████║██║     ██║   ██║██████╔╝
+██   ██║██╔══██║██║     ██║   ██║██╔══██╗
+╚█████╔╝██║  ██║╚██████╗╚██████╔╝██████╔╝
+ ╚════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═════╝
 ```
 
-# 嗨，我是 GUOJIE 👋
+# 嗨，我是 Jacob 👋
 
 ### ⚡ .NET Developer | Backend Craftsman | Code Architect
 
@@ -22,9 +22,9 @@
 ## 🧑‍💻 About Me
 
 ```csharp
-public class GUOJIE : Developer
+public class Jacob : Developer
 {
-    public string Name        => "GUOJIE";
+    public string Name        => "Jacob";
     public string[] Roles     => ["ASP.NET Developer"];
     public string[] Languages => ["C#", "SQL", "JavaScript"];
 
