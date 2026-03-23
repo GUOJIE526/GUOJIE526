@@ -25,17 +25,17 @@
 public class GUOJIE : Developer
 {
     public string Name        => "GUOJIE";
-    public string[] Roles     => ["Backend Developer", ".NET Specialist"];
-    public string[] Languages => ["C#", "SQL", "TypeScript", "JavaScript"];
+    public string[] Roles     => ["ASP.NET Developer"];
+    public string[] Languages => ["C#", "SQL", "JavaScript"];
 
     public string[] CurrentlyLearning => [
-        "Minimal API",
-        "Blazor",
-        "Azure Cloud Services",
-        "Microservices Architecture"
+        "ASP.NET Core Web API",
+        "Entity Framework Core",
+        "Clean Architecture",
+        "Git workflow"
     ];
 
-    public string   WorkStyle => "Clean Code + SOLID Principles";
+    public string   WorkStyle => "Domain-Driven Design (DDD) Enthusiast";
     public string   Motto     => "Code like the next developer is a psychopath who knows where you live.";
 }
 ```
@@ -54,7 +54,6 @@ public class GUOJIE : Developer
 ### 🗄️ Database
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### ☁️ Cloud & DevOps
