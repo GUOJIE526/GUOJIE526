@@ -71,16 +71,6 @@ public class GUOJIE : Developer
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=GUOJIE526&theme=tokyonight&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
